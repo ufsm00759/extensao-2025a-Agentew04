@@ -1,6 +1,7 @@
 # DCG de Extensão (UFSM00759)
 
-> Aluno: Rodrigo Appelt
+**Professora:** Andrea Schwertner Charão 
+**Aluno:** Rodrigo Appelt
 
 * Phenoglad
     * Software para simulação do crescimento de flores
