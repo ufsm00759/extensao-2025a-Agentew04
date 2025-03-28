@@ -1,6 +1,7 @@
 # DCG de Extensão (UFSM00759)
 
 **Professora:** Andrea Schwertner Charão 
+
 **Aluno:** Rodrigo Appelt
 
 * Phenoglad
