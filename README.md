@@ -4,6 +4,8 @@
 
 **Aluno:** Rodrigo Appelt
 
+**Período:** 2025/1
+
 ## Pesquisas realizadas
 
 Abaixo estão listadas algumas pesquisas realizadas
@@ -24,17 +26,31 @@ sobre alguns projetos de extensao já existentes.
 * Venda em Finados e Dia das Mães
 * Possibilidade de lucro
 
+## Projetos Realizados
+
+### Visitas 360º para o Jardim Botânico de Santa Maria
+
+* Solução desenvolvida para criação de visitas virtuais 360º genéricas para a plataforma mobile.
+* Técnica de captura de fotos esféricas de baixo custo
+* Estudo de múltiplas estratégias para a implantação e disponibilização para o público
+   * Páginas web
+   * Aplicativos nativo
+* Link de acesso para o produto final: [https://jbsm.inf.ufsm.br/360](https://jbsm.inf.ufsm.br/360)
+* Os dois softwares finais gerados utilizaram a biblioteca three.js e a game engine Unity 6
+   * Repositório com a build da unity [aqui](https://github.com/Agentew04/web-360/tree/caef7c6b0f2d5a003b55cd20d90d42959c52d34a)
+   * Repositório com o código three.js [aqui](https://github.com/jardimbotanicoufsm/360)
+
 ## Visitas
 
 ### Jardim Botânico de Santa Maria (JBSM)
 
-TODO: add uma foto talvez
+Foram realizadas inúmeras visitas ao JBSM, com propósitos distintos:
+* Reuniões de definição de requisitos
+* Apresentação de resultados para a equipe do jardim
+* Captura de imagens para a visita virtual
+* Passeio turístico para o conhecimento do local e descoberta de possíveis soluções a serem desenvolvidas
 
-### Antiga Reitoria
-
-TODO: realmente ir la
-
-## Experiências Técnicas
+## Experiências Técnicas Prévias
 
 ### SIS-ASTROS
 
